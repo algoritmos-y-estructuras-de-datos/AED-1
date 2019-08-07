@@ -1,0 +1,14 @@
+﻿123,Abadie,PsicologÃ­a
+279,Abal,Ing. InformÃ¡tica
+96,Aguerrondo,Derecho
+267,Aicardi,PsicologÃ­a
+330,Alberti,Derecho
+226,Aldecosea,Medicina
+154,Alegre,Medicina
+259,Alonso,Ing. InformÃ¡tica
+281,Alpuy,Ing. InformÃ¡tica
+189,Arevalo,PsicologÃ­a
+226,Artola,Derecho
+33,Auza,Medicina
+292,Ayub,PsicologÃ­a
+341,Bais,Derecho

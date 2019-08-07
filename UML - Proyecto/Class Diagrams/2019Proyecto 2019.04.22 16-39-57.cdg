@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="2019Proyecto">
+  <ClassDiagramComponents>
+    <Class name="Match" package="" visibility="public" xPosition="460.0" yPosition="20.0">
+      <Fields>
+        <Field name="id" type="String" visibility="package" isFinal="true"/>
+        <Field name="date" type="String" visibility="package" isFinal="true"/>
+        <Field name="league" type="String" visibility="package" isFinal="true"/>
+        <Field name="season" type="Integer" visibility="package" isFinal="true"/>
+        <Field name="homeTeam" type="String" visibility="package" isFinal="true"/>
+        <Field name="awayTeam" type="String" visibility="package" isFinal="true"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public">
+          <Argument type="String" name="id"/>
+          <Argument type="String" name="date"/>
+          <Argument type="String" name="league"/>
+          <Argument type="Integer" name="season"/>
+          <Argument type="String" name="homeTeam"/>
+          <Argument type="String" name="awayTeam"/>
+        </Constructor>
+      </Constructors>
+      <Methods>
+        <Method name="getId" returnType="String" visibility="public"/>
+        <Method name="getDate" returnType="String" visibility="public"/>
+        <Method name="getLeague" returnType="String" visibility="public"/>
+        <Method name="getSeason" returnType="Integer" visibility="public"/>
+        <Method name="getHomeTeam" returnType="String" visibility="public"/>
+        <Method name="getAwayTeam" returnType="String" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="OnceIdeal" package="" visibility="public" xPosition="1820.0" yPosition="20.0">
+      <Fields>
+        <Field name="listaEquipos" type="Lista&lt;Team&gt;" visibility="public"/>
+        <Field name="listaJugadores" type="Lista&lt;Player&gt;" visibility="public"/>
+        <Field name="listaPartidos" type="Lista&lt;Match&gt;" visibility="public"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="cargarJugador" returnType="void" visibility="public">
+          <Argument type="String" name="nombreArchivo"/>
+        </Method>
+        <Method name="cargarTeams" returnType="void" visibility="public">
+          <Argument type="String" name="nombreArchivo"/>
+        </Method>
+        <Method name="cargarMatches" returnType="void" visibility="public">
+          <Argument type="String" name="nombreArchivo"/>
+        </Method>
+        <Method name="cargarEvents" returnType="void" visibility="public">
+          <Argument type="String" name="nombreArchivo"/>
+        </Method>
+        <Method name="cargarMatchSt" returnType="void" visibility="public">
+          <Argument type="String" name="nombreArchivo"/>
+        </Method>
+        <Method name="getMostParticipativePlayer" returnType="Nodo&lt;Player&gt;" visibility="public">
+          <Argument type="Lista&lt;Player&gt;" name="lista"/>
+        </Method>
+        <Method name="getMostEffectiveGoalkeeper" returnType="Nodo&lt;Player&gt;" visibility="public"/>
+        <Method name="getMostEffectiveForward" returnType="Nodo&lt;Player&gt;" visibility="public"/>
+        <Method name="getMostEffectiveZD" returnType="Nodo&lt;Player&gt;" visibility="public"/>
+        <Method name="getMostEffectiveZC" returnType="Nodo&lt;Player&gt;" visibility="public">
+          <Argument type="Integer" name="number"/>
+        </Method>
+        <Method name="getMostEffectiveZI" returnType="Nodo&lt;Player&gt;" visibility="public"/>
+        <Method name="getMostEffectiveMD" returnType="Nodo&lt;Player&gt;" visibility="public"/>
+        <Method name="getMostEffectiveMC" returnType="Nodo&lt;Player&gt;" visibility="public"/>
+        <Method name="getMostEffectiveMI" returnType="Nodo&lt;Player&gt;" visibility="public"/>
+        <Method name="getMostEffectiveDD" returnType="Nodo&lt;Player&gt;" visibility="public"/>
+        <Method name="getMostEffectiveDC" returnType="Nodo&lt;Player&gt;" visibility="public"/>
+        <Method name="getMostEffectiveDI" returnType="Nodo&lt;Player&gt;" visibility="public"/>
+        <Method name="getMostEffectiveTeam" returnType="Nodo&lt;Team&gt;" visibility="public">
+          <Argument type="Integer" name="temporada"/>
+        </Method>
+        <Method name="getLeastEffectiveTeam" returnType="Nodo&lt;Team&gt;" visibility="public">
+          <Argument type="Integer" name="temporada"/>
+        </Method>
+        <Method name="buscarJugadorPorNombre" returnType="Nodo&lt;Player&gt;" visibility="public">
+          <Argument type="String" name="name"/>
+        </Method>
+        <Method name="buscarEquipoPorNombre" returnType="Nodo&lt;Team&gt;" visibility="public">
+          <Argument type="String" name="name"/>
+        </Method>
+        <Method name="buscarPartidoLeagueSeason" returnType="String" visibility="public">
+          <Argument type="String" name="id"/>
+        </Method>
+        <Method name="buscarPartidoLeague" returnType="String" visibility="public">
+          <Argument type="String" name="id"/>
+        </Method>
+        <Method name="buscarPartidoSeason" returnType="Integer" visibility="public">
+          <Argument type="String" name="id"/>
+        </Method>
+        <Method name="imprimirNombrePlayerTeams" returnType="void" visibility="public">
+          <Argument type="Lista&lt;Team&gt;" name="lista"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="Player" package="" visibility="public" xPosition="1238.0" yPosition="573.0">
+      <Fields>
+        <Field name="id" type="String" visibility="public"/>
+        <Field name="name" type="String" visibility="public"/>
+        <Field name="playerPositions" type="Lista&lt;String&gt;" visibility="public"/>
+        <Field name="playerLeagueNSeason" type="Lista&lt;String&gt;" visibility="public"/>
+        <Field name="playerLeagues" type="Lista&lt;String&gt;" visibility="public"/>
+        <Field name="playerSeasons" type="Lista&lt;Integer&gt;" visibility="public"/>
+        <Field name="playerTeams" type="Lista&lt;Team&gt;" visibility="public"/>
+        <Field name="goalsToTeams" type="Lista&lt;String&gt;" visibility="public"/>
+        <Field name="attempt" type="Integer" visibility="public"/>
+        <Field name="corner" type="Integer" visibility="public"/>
+        <Field name="foul" type="Integer" visibility="public"/>
+        <Field name="yellow" type="Integer" visibility="public"/>
+        <Field name="red" type="Integer" visibility="public"/>
+        <Field name="freeKickWon" type="Integer" visibility="public"/>
+        <Field name="offside" type="Integer" visibility="public"/>
+        <Field name="penalty" type="Integer" visibility="public"/>
+        <Field name="keyPass" type="Integer" visibility="public"/>
+        <Field name="ownGoal" type="Integer" visibility="public"/>
+        <Field name="tapadas" type="Integer" visibility="public"/>
+        <Field name="goal" type="Integer" visibility="public"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public">
+          <Argument type="String" name="id"/>
+          <Argument type="String" name="name"/>
+        </Constructor>
+      </Constructors>
+      <Methods>
+        <Method name="getId" returnType="Comparable" visibility="public"/>
+        <Method name="getName" returnType="String" visibility="public"/>
+        <Method name="getMostLeageNSeasonParticipations" returnType="String" visibility="public"/>
+        <Method name="toString" returnType="String" visibility="public"/>
+        <Method name="toString" returnType="String" visibility="public">
+          <Argument type="Boolean" name="y"/>
+        </Method>
+        <Method name="getPosicion" returnType="String" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="Team" package="" visibility="public" xPosition="20.0" yPosition="420.0">
+      <Fields>
+        <Field name="id" type="String" visibility="public"/>
+        <Field name="name" type="String" visibility="public"/>
+        <Field name="goles" type="Integer" visibility="public"/>
+        <Field name="golesRecibidos" type="Integer" visibility="public"/>
+        <Field name="golesHechosEnTemporada" type="ArrayList&lt;Integer&gt;" visibility="public"/>
+        <Field name="golesRecibidosEnTemporada" type="ArrayList&lt;Integer&gt;" visibility="public"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public">
+          <Argument type="String" name="id"/>
+          <Argument type="String" name="name"/>
+        </Constructor>
+      </Constructors>
+      <Methods>
+        <Method name="getId" returnType="String" visibility="public"/>
+        <Method name="getName" returnType="String" visibility="public"/>
+        <Method name="toString" returnType="String" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations>
+    <UseRelation source="OnceIdeal" target="Player" sourceCardinality="1..1" targetCardinality="1..1"/>
+    <HasRelation name="listaPartidos" source="OnceIdeal" target="Match" type="Aggregation" sourceCardinality="1..1" targetCardinality="0..*" collectionType="Lista&lt;Match&gt;"/>
+    <HasRelation name="listaEquipos" source="OnceIdeal" target="Team" type="Aggregation" sourceCardinality="1..1" targetCardinality="0..*" collectionType="Lista&lt;Team&gt;"/>
+    <HasRelation name="playerTeams" source="Player" target="Team" type="Aggregation" sourceCardinality="1..1" targetCardinality="0..*" collectionType="Lista&lt;Team&gt;"/>
+    <UseRelation source="OnceIdeal" target="Team" sourceCardinality="1..1" targetCardinality="1..1"/>
+    <HasRelation name="listaJugadores" source="OnceIdeal" target="Player" type="Aggregation" sourceCardinality="1..1" targetCardinality="0..*" collectionType="Lista&lt;Player&gt;"/>
+    <UseRelation source="Nodo" target="Nodo" sourceCardinality="1..1" targetCardinality="1..1"/>
+    <UseRelation source="ILista" target="Nodo" sourceCardinality="1..1" targetCardinality="1..1"/>
+  </ClassDiagramRelations>
+</ClassDiagram>

@@ -1,0 +1,234 @@
+1237330035,3.4.1 ,Ignition Condensers,5,15
+0130002211,9.5.1 ,Cooling Systems,9,826
+0189999110,9.6.1 ,Terminals Fuses and Cables,9,28
+1987473000,1.8.4 ,Wear Indicator,9,29
+0580054001,6.1.2 ,Fuel Pumps Module,9,1275
+0986495056,1.1.1 ,Basic Pads,8,139
+0986580400,6.1.3 ,Fuel Pumps Kits,10,692
+0333009018,12.5.1 ,Bosch Clutch,3,583
+0457104001,8.2.3 ,Air Filters - HCV,1,17
+0432131613,11.7.2 ,Injector New - HCV,10,776
+0120450015,12.2.2 ,Bosch Alternator HCV,10,2861
+1987431228,8.5.4 ,Active Carbon Cabin Filters - HCV,2,121
+1457030020,8.6.1 ,Denoxtronic Filters,2,24
+KS00000807,17.1.1 ,Gears New Conventional PC/LCV,10,2115
+0280160202,6.1.4 ,Fuel Pumps Pressure Regulator,6,695
+0332002150,9.2.1 ,Relays,5,99
+0986440024,11.1.1 ,Injection Pumps BX - PC/LCV,6,7736
+0204001935,1.6.1 ,Calipers (New),6,543
+1987947502,13.1.3 ,V-Belts,3,14
+8399110591,17.1.3 ,Gears New Conventional HCV,2,941
+0204031050,1.5.4 ,Pressure Regulators,5,576
+0261500005,6.2.3 ,Gasoline Injector - Direct,8,646
+1237013000,3.4.3 ,Ignition Contacts,4,15
+0928404001,11.14.3 ,Exhaust Gas Spare Parts PC/LCV,8,2201
+0204113501,1.3.1 ,Kit Pro,9,102
+0986437106,11.2.2 ,High Pressure Pumps CR - BX-HCV,1,3256
+2433101162,11.11.1 ,General - PC/LCV,10,8
+0281002631,11.12.4 ,Fuel Metering - HCV,5,797
+0241145515,7.1.3 ,Platinum Spark Plugs,3,37
+0414693006,11.4.2 ,High Pressure Pumps CR New-HCV,7,1372
+0204114001,1.3.2 ,Kit Super Pro,7,225
+0221504001,3.1.3 ,Ignition Coils (Compact),4,213
+F00RJ02813,11.12.9 ,CRI / CRIN Kits - PC/LCV,10,1362
+1987477002,1.8.5 ,Handbrake Cables,6,39
+1418502203,11.11.5 ,Valves - PC/LCV,4,37
+KS00000776,17.1.2 ,Gears New Modern PC/LCV,10,2853
+0281006134,11.14.4 ,Exhaust Gas New HCV,4,259
+0204100062,1.8.3 ,Brake Parts Kit,5,112
+3397001765,10.1.3 ,SuperPlus,1,68
+3397004558,10.1.4 ,Conventional Rear,2,28
+0450901003,8.4.1 ,Gasoline Filters,7,59
+0258002028,4.1.2 ,Lambda Sensors Gasoline LSH,10,164
+0406008243,11.15.2 ,Large Engine - Spare Parts,7,221927
+0281006665,11.14.1 ,Exhaust Gas New PC/LCV,7,815
+0986444940,11.11.11 ,BX Other,7,652
+0986628250,8.7.1 ,Miscellaneous Filters,5,78
+098644D002,11.14.5 ,Exhaust Gas BX HCV,2,10699
+0120335012,12.2.1 ,Bosch Alternator PC/LCV,7,2588
+3397001696,10.3.1 ,Eco Blades,2,32
+1987301101,2.1.5 ,Box of Bulbs and Fuses,6,18
+0221504460,3.1.2 ,Ignition Coils (Pencil),8,445
+0986478010,1.2.1 ,Basic Discs,2,57
+0241242502,7.1.2 ,Super 4 Spark Plugs,5,17
+0261230150,11.14.6 ,Exhaust Gas Spare Parts HCV,3,590
+0241235689,7.1.5 ,Silver Spark Plugs,1,31
+1418303003,11.11.4 ,Elements - HCV,5,27
+0204103036,1.6.2 ,Calipers (BX),3,788
+3391014459,10.5.2 ,Wipers Refill,10,21
+0451102056,8.1.1 ,Oil Filters,2,13
+0306055101,2.2.2 ,Working Lights,4,174
+0986479009,1.2.3 ,Discs with Bearings,6,332
+1987949749,13.2.3 ,Belt Parts,7,336
+0986441551,11.6.1 ,Injector UIP BX - PC/LCV,4,4300
+0986438508,6.4.3 ,Jetronic,1,904
+0986435502,11.6.4 ,Injector CRI(N) BX - HCV,4,3102
+0192900006,12.6.1 ,Bosch Regulators,7,18807
+0130002525,9.3.1 ,Wiper and Electronic Motors,3,154
+1460C85002,11.12.7 ,CP4 PC/LCV,8,76
+0433171594,11.10.1 ,Nozzles CRI(N) & UI(N) - PC/LCV,7,196
+KS00000001,17.3.1 ,Pumps New PC,10,1678
+0356904070,3.2.2 ,Ignition Leads (Copper single),8,64
+0986445001,11.2.3 ,Units Pumps UP - BX - HCV,7,2343
+0250001010,7.4.1 ,Standard Glow Plugs,4,19
+0240229004,7.1.1 ,Nickel Spark Plugs,7,488
+0204024332,1.5.2 ,Master Cylinder,7,254
+KS01000819,17.2.1 ,Gears BX Conventional PC/LCV,10,2611
+3397007072,10.2.1 ,Aerotwin,6,95
+0261222009,6.1.5 ,Fuel Pumps Others,1,568
+KS00000002,17.3.2 ,Pumps New HCV,7,862
+0445110002,11.8.3 ,Injector CRI(N) New - PC/LCV,7,1415
+0400464113,11.3.2 ,Injection Pumps New  - HCV,5,12599
+0986435001,11.6.3 ,Injector CRI(N) BX - PC/LCV,7,1455
+0986440062,11.1.2 ,Injection Pumps BX - HCV,1,11233
+0241256524,7.1.8 ,Industrial Spark Plugs,1,432
+0986356300,3.2.4 ,Ignition Leads (Copper set),7,415
+0986628500,8.5.1 ,Standard Cabin Filters,8,123
+0986010030,12.3.1 ,BX Starter PC/LCV,4,617
+1230210034,6.3.7 ,Other Sensors,5,2
+0414750003,11.4.3 ,Unit Pumps UP New - HCV,10,3453
+0281002313,11.12.1 ,General - PC/LCV,9,885
+0092M4F070,14.2.1 ,Bosch - Motorcycle,2,102
+3397007460,10.2.2 ,Aerotwin Multiclip,10,75
+0986475005,1.5.1 ,Wheel Cylinders,10,41
+0414720403,11.7.1 ,Injector New - PC/LCV,9,2486
+0986437002,11.2.1 ,High Pressure Pumps CR -BX-PC/LCV,7,2669
+F00RJ02546,11.12.1 ,General PC/LCV,9,2
+018999901M,14.7.1 ,Battery Chargers,8,181
+0986626800,8.2.1 ,Air Filters,4,17
+0986030730,12.4.1 ,BX Alternator PC/LCV,3,1217
+0986435350,11.6.5 ,Injector BX CRI3,5,1365
+0301008020,2.3.1 ,Lighting Parts,6,1065
+0232101002,6.3.3 ,Phase and Position Sensors,6,1004
+1987948707,13.1.2 ,Timing Belts,8,75
+0433171044,11.9.1 ,Nozzles NHA - PC/LCV,5,120
+0986FS0027,7.3.1 ,Spark Plugs - CKD / Other,6,4011
+KS01000746,17.2.2 ,Gears BX Modern PC/LCV,3,2617
+1987301084,2.1.1 ,Main Headlights Bulbs - PC/LCV,8,42
+0400844047,11.3.1 ,Injection Pumps New - PC/LCV,3,9893
+0986280101,5.1.4 ,Airmass Meter Gasoline (BX),8,2071
+0986030320,12.4.2 ,BX Alternator HCV,4,2275
+F00RJ02807,11.12.10 ,CRI / CRIN Kits - HCV,3,672
+0986285066,1.7.1 ,Sensors ABS / ESP,6,3192
+0986010240,99.4.1 ,Classic Parts Youngtimer,2,849
+0227900014,3.1.5 ,Ignition Coils (Other/Spares),2,176
+0331302009,12.7.1 ,Bosch Switches,5,360
+0204839599,99.99.99 ,Others,9,180
+F026402143,8.3.3 ,Diesel Filters - HCV,10,198
+1987302501,2.1.4 ,General Bulbs - HCV,5,1
+0221500203,3.1.4 ,Ignition Coils (Modules),8,468
+0280150036,6.2.2 ,Gasoline Injector - Manifold,7,652
+0986262325,6.4.2 ,Control Units,9,7451
+1466C06101,11.12.8 ,CP4 HCV,3,817
+5000000150,1.8.2 ,Brake Grease,1,17
+0281002241,11.12.3 ,Fuel Metering - PC/LCV,10,515
+0241236837,7.1.10 ,Retail Spark Plugs PC,6,32
+0433171001,11.9.2 ,Nozzles NHA - HCV,5,117
+0263003333,99.1.1 ,Park Pilot,6,216
+0280217007,5.1.1 ,Airmass Meter Gasoline (HFM5),4,851
+0130007325,9.7.1 ,Electric Parts - HCV,2,302
+F00RJ00005,11.12.6 ,CRI(N) Valve Sets - HCV,7,318
+0280217002,5.1.5 ,Airmass Meter Gasoline (Other),1,897
+1235522119,3.4.2 ,Distributor Caps,10,140
+0281002917,5.2.3 ,Airmass Meter Diesel (HFM7),9,587
+KS01000067,17.4.1 ,Pumps BX PC,7,874
+0281002072,5.2.5 ,Airmass Meter Diesel (Other),8,1298
+0204142050,11.13.1 ,Diesel Vacuum Pumps,2,1304
+0280140505,6.4.1 ,Butterfly Components,4,791
+0437502003,6.2.1 ,Gasoline Injector - Mechanical,9,193
+0205001029,6.3.5 ,Acceleration Sensors and Modules,3,1511
+0261520011,6.4.4 ,High Pressure Pumps,3,2467
+1681105286,11.12.7 ,CP4 - PC/LCV,2,1848
+0986424016,1.1.2 ,Premium / Special / Sports Pads,10,119
+0280158818,6.2.4 ,Gasoline Injector - NGI,9,324
+0241219541,7.1.6 ,Small-Engine Spark Plugs,8,10
+0001109047,12.1.2 ,Bosch Starter HCV,1,1216
+0986483001,1.7.3 ,Hydraulic Groups ABS / ESP,7,7172
+0227100123,3.4.4 ,Ignition Modules,10,75
+1987945500,13.1.4 ,HCV Belts,4,46
+0354120003,9.1.2 ,Connectors,9,258
+0281004005,4.2.1 ,Lambda Sensors Diesel,9,547
+3397006941,10.2.6 ,Aerotwin Plus,5,35
+0258006014,4.1.1 ,Lambda Sensors Gasoline LSF,1,297
+0402204011,11.15.1 ,Large Engine - Pumps & Injectors,2,99792
+0320223002,9.4.1 ,Horns and Fanfares,10,184
+0986628537,8.5.2 ,Active Carbon Cabin Filters,6,61
+0986487002,1.4.1 ,Shoes,9,50
+1987945700,13.1.1 ,Ribbed V-Belts,2,55
+0280150322,6.2.5 ,Gasoline Injector - Other,3,579
+1418305504,11.11.3 ,Elements - PC/LCV,9,34
+7782319052,2.2.1 ,Beacons,1,2012
+0251002001,7.6.1 ,Glowing Systems / Accessories,1,127
+0280218207,5.1.3 ,Airmass Meter Gasoline (HFM7),9,522
+0204021464,1.5.6 ,Brake Booster,10,985
+1987476002,1.5.5 ,Brake Hoses,2,27
+0250201939,7.4.4 ,Retail Glow Plugs,8,76
+0280218199,5.2.2 ,Airmass Meter Diesel (HFM6),6,712
+1987479021,1.8.1 ,Brake Fluids,2,34
+0986441004,11.6.2 ,Injector UIN BX - HCV,1,1753
+1467010360,11.11.8 ,Kits - HCV,6,71
+0241140522,7.1.4 ,Iridium Spark Plugs,10,45
+0986477002,1.4.2 ,Drums,1,117
+F00RJ00339,11.12.5 ,CRI(N) Valve Sets - PC/LCV,9,205
+0265108017,1.7.2 ,Control Units ABS / ESP,7,6196
+1234332074,3.4.5 ,Ignition Rotors,1,41
+0332400002,9.1.1 ,Switches,8,117
+3397118903,10.2.3 ,Aerotwin Retrofit,7,81
+1987431155,8.5.3 ,Standard Cabin Filters - HCV,3,53
+1467010008,11.11.7 ,Kits - PC/LCV,6,34
+KS01000396,17.4.2 ,Pumps BX HCV,2,1017
+0241219809,7.1.11 ,Retail Spark Plugs 2W & Industry,8,8
+0433171433,11.10.2 ,Nozzles CRI(N) & UI(N) - HCV,7,276
+3397005828,10.2.4 ,Aerotwin Rear,10,28
+1987302411,2.1.2 ,Main Headlights Bulbs - HCV,5,7
+0206002113,11.11.10 ,Control Units - HCV,9,3615
+1987474000,1.8.7 ,Brake Accessories,3,12
+0001106017,12.1.1 ,Bosch Starter PC/LCV,6,835
+0450126002,8.3.1 ,Diesel Filters,9,175
+0986625001,1.8.6 ,Brake Repair,6,1738
+0204162072,1.5.3 ,Hydraulic Clutch,10,275
+0450906384,8.3.2 ,Diesel Filters - Retail,8,80
+0212911001,3.4.6 ,Spare Parts Rest,6,72
+0280130012,6.3.4 ,Temperature Sensors,3,112
+0414720039,11.8.1 ,Injector UIP New - PC/LCV,9,8912
+0451103046,8.1.2 ,Oil Filters - Retail,8,16
+0445110284,11.8.4 ,Injector CRI(N) New - HCV,7,1573
+0986284001,5.2.4 ,Airmass Meter Diesel (BX),5,399
+1987301001,2.1.6 ,Retail Bulbs - PC/LCV,7,9
+0986430002,11.5.2 ,Injector BX - HCV,5,277
+0280218175,5.1.2 ,Airmass Meter Gasoline (HFM6),4,475
+0261230009,6.3.1 ,Pressure Sensors,1,199
+0261210001,6.3.2 ,Speed Sensors,2,229
+3397002918,10.1.2 ,Twin HCV,4,109
+3032472343,17.6.2 ,Rest New HCV,4,621
+098644D320,11.14.2 ,Exhaust Gas BX PC/LCV,10,1639
+0986010970,12.3.2 ,BX Starter HCV,1,1499
+0414001002,11.8.2 ,Injector UIN New - HCV,2,577
+F00E263258,4.1.3 ,Lambda Sensors Gasoline LSU,3,929
+0261231007,6.3.6 ,Knock Sensors,7,148
+0258004010,4.1.4 ,Lambda Sensors Gasoline LSM,4,239
+0250201032,7.4.2 ,Duraterm Glow Plugs,7,30
+3397008841,10.2.5 ,Aerotwin HCV,4,45
+0356912874,3.2.3 ,Ignition Leads (Silicon set),5,410
+0281002182,5.2.1 ,Airmass Meter Diesel (HFM5),6,449
+3137410004,10.5.1 ,Systems and Sensors,8,33
+0580200001,6.1.1 ,Fuel Pumps In-line,1,427
+1987946300,13.2.1 ,Belt Kit Standard,8,145
+1987946400,13.2.2 ,Belt Kit with Waterpump,4,450
+0986430080,11.5.1 ,Injector BX - PC/LCV,7,271
+0451103004,8.1.3 ,Oil Filters - HCV,2,20
+1418502001,11.11.6 ,Valves - HCV,2,110
+0331100023,12.8.1 ,Bosch Starter Parts,9,752
+0305001005,2.2.3 ,Additional Headlights,2,227
+0204103220,99.4.2 ,Classic Parts Vintage,2,593
+0221100028,3.1.1 ,Ignition Coils (Asphalt),7,196
+0250312001,7.4.3 ,Ceramic Glow Plugs,6,156
+0414673999,11.4.1 ,High Pressure Pumps CR New-PC/LCV,9,1506
+0240235010,7.1.7 ,2-Wheeler Spark Plugs,5,466
+1136201043,9.6.3 ,Comfort Parts,9,1181
+3397001359,10.1.1 ,Twin,8,291
+0281002314,11.11.2 ,General - HCV,3,677
+0356912052,3.2.1 ,Ignition Leads (Silicon single),4,79
+0281002311,11.12.2 ,General - HCV,7,119
+01221AA5L0,12.8.4 ,Bosch Alternator Parts,3,808
+0986310125,2.1.3 ,General Bulbs - PC/LCV,5,58
